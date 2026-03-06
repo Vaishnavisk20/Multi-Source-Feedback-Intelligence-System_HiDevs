@@ -1,1 +1,11 @@
-# Add your project dependencies here
+streamlit
+pandas
+numpy
+matplotlib
+textblob
+google-play-scraper
+feedparser
+reportlab
+scikit-learn
+wordcloud
+requests
